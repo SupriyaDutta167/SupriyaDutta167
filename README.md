@@ -14,18 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5);
+               -webkit-background-clip: text; color: transparent;">
+    Hello, I’m Supriya! 👋
+  </span>
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff6ec4&lines=Developer;CS+Student;Problem+Solver" alt="typing">
+</p>
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+###  Language Breakdown
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaDutta167&layout=compact&theme=transparent&langs_count=8)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)
+###  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupriyaDutta167&show_icons=true&theme=radical)
 
-### 🌐 Connect with me
+###  Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=SupriyaDutta167&theme=radical)
+
+###  Tech & Tools
+| Tool     | Propensity |
+|----------|------------|
+| Python   | █████████▌ 90% |
+| PHP      | ███████▋   70% |
+| MySQL    | ███████▏   65% |
+
+###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-d_supriya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dsupriya167)
+[![Email](https://img.shields.io/badge/Email-supriya@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriya@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SupriyaDutta167&color=brightgreen)
+
+---
