@@ -11,6 +11,10 @@
 </div>
 
 ---
+## 📊 Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaDutta167&layout=compact&theme=radical&langs_count=8)
+
+---
 
 ## 🚀 About Me
 
