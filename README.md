@@ -16,7 +16,6 @@
 
 ```javascript
 const supriya = {
-  pronouns: "she/her",
   location: "India 🇮🇳",
   currentFocus: "Full Stack Development & Problem Solving",
   hobbies: ["Coding", "Learning New Technologies", "Problem Solving"],
