@@ -130,10 +130,16 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SupriyaDutta167&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&text_color=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SupriyaDutta167&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SupriyaDutta167&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SupriyaDutta167&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SupriyaDutta167&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SupriyaDutta167&theme=radical&utcOffset=5.5" />
 </div>
 
 ---
