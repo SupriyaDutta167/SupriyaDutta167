@@ -12,10 +12,10 @@
 
 ---
 ## 📊 Language Usage
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaDutta167&layout=compact&theme=radical&langs_count=8)
-</div>
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaDutta167&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
+</p>
+
 
 ## 🚀 About Me
 
