@@ -14,15 +14,44 @@
 
 ## 🚀 About Me
 
-```javascript
-const supriya = {
-  location: "India 🇮🇳",
-  currentFocus: "Full Stack Development & Problem Solving",
-  hobbies: ["Coding", "Learning New Technologies", "Problem Solving"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-  lifePhilosophy: "Code is poetry written in logic ✨"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" />
+        <br><strong>🌍 Location</strong>
+        <br>India 🇮🇳
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+        <br><strong>🎯 Focus</strong>
+        <br>Full Stack Development
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+        <br><strong>💡 Passion</strong>
+        <br>Problem Solving
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+        <br><strong>🎨 Hobbies</strong>
+        <br>Coding & Learning Tech
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+        <br><strong>🐛 Fun Fact</strong>
+        <br>console.log() debugger 😄
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a5d9a.gif" width="100" />
+        <br><strong>✨ Philosophy</strong>
+        <br>Code is poetry in logic
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
