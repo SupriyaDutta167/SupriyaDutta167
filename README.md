@@ -37,11 +37,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-SupriyaDutta167-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SupriyaDutta167)
-[![Email](https://img.shields.io/badge/Email-supriya@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supriya@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dsupriya167)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dsupriya167)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hii.supriya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SupriyaDutta167-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/dsupriya167)
+[![Email](https://img.shields.io/badge/Email-supriya@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsupriya167@gmail.com)
 
 ---
 
