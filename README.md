@@ -17,7 +17,6 @@
 
 ## 🌟 About Me
 
-```python
 class Developer:
     def __init__(self):
         self.name = "Supriya Dutta"
@@ -31,7 +30,6 @@ class Developer:
 
 supriya = Developer()
 print(supriya.say_hello())
-```
 
 <div align="center">
 
