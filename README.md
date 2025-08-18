@@ -97,11 +97,11 @@
 
 | 💻 **Skill** | 📊 **Proficiency** | 🎯 **Experience** |
 |-------------|-------------------|------------------|
-| 🐍 **Python** | ![90%](https://progress-bar.dev/90?color=ff6ec4) | **Advanced** |
+| 🐍 **Python** | ![60%](https://progress-bar.dev/90?color=ff6ec4) | **Advanced** |
 | 🎨 **HTML/CSS** | ![80%](https://progress-bar.dev/80?color=7873f5) | **Proficient** |
-| 🌐 **PHP** | ![70%](https://progress-bar.dev/70?color=00d4ff) | **Intermediate** |
-| 💾 **MySQL** | ![65%](https://progress-bar.dev/65?color=ff9500) | **Intermediate** |
-| ⚙️ **C++** | ![60%](https://progress-bar.dev/60?color=00ff88) | **Learning** |
+| 🌐 **PHP** | ![60%](https://progress-bar.dev/70?color=00d4ff) | **Intermediate** |
+| 💾 **MySQL** | ![85%](https://progress-bar.dev/65?color=ff9500) | **Intermediate** |
+| ⚙️ **C++** | ![90%](https://progress-bar.dev/60?color=00ff88) | **Learning** |
 
 </div>
 
